@@ -131,7 +131,6 @@ class NotificationService {
     required DateTime scheduledTime,
   }) async {
     try {
-      print('Scheduled exact notification $id for ${scheduledTime.toIso8601String()}');
        
 
       await _plugin.zonedSchedule(

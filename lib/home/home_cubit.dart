@@ -370,9 +370,22 @@ class HomeCubit extends Cubit<HomeState> {
   }
 
   DateTime _getEveningBeforeReminderTime(DateTime targetDate) {
-    print(  'Calcolando reminder serale per data: $targetDate');
+  final dayBefore = targetDate.subtract(const Duration(days: 1));
+
+  final scheduledTime = DateTime(
+    dayBefore.year,
+    dayBefore.month,
+    dayBefore.day,
+    20,
+    0,
+  );
+
+  if (scheduledTime.isBefore(DateTime.now())) {
     return DateTime.now().add(const Duration(minutes: 1));
   }
+
+  return scheduledTime;
+}
 
   DateTime _getRangeEndTime({
     required String bestTimeRange,
