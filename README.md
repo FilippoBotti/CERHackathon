@@ -4,6 +4,11 @@ CER Solar è un’app Flutter pensata per supportare i membri di una Comunità E
 
 L’app utilizza previsioni meteo open source per stimare le fasce orarie di maggiore produzione solare locale e suggerire quando utilizzare elettrodomestici energivori, come lavatrice, lavastoviglie o ricarica di veicoli elettrici.
 
+I file sono disponibili al seguente link SharePoint:
+
+```text
+https://univpr-my.sharepoint.com/:f:/g/personal/filippo_botti_unipr_it/IgD5clsSCNhMTYA-x-LXktZjAa8U-ti8c7C4N_SYwHh_QZY?e=2TlGTV
+
 ---
 
 ## Obiettivo dell’applicazione
