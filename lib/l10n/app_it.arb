@@ -1,0 +1,221 @@
+{
+  "@@locale": "it",
+
+  "appTitle": "CER Solar",
+
+  "homeTitle": "La tua CER",
+  "energyAdviceFor": "Consigli energetici per {city}",
+  "@energyAdviceFor": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "noAdviceAvailable": "Nessun consiglio disponibile.",
+  "reminderActivated": "Promemoria attivato.",
+  "reminderCancelled": "Promemoria annullato.",
+  "goalTitle": "Obiettivo",
+  "goalText": "Spostare i consumi domestici nelle ore in cui la produzione solare locale è più alta.",
+  "whyCerTitle": "Perché è utile per una CER?",
+  "whyCerText": "Aiuta la comunità a usare più energia rinnovabile prodotta localmente e ridurre gli sprechi.",
+
+  "bestMomentTodayAt": "Momento migliore oggi alle ore:",
+  "bestMomentTodaySemantic": "Momento migliore oggi. Picco previsto alle ore {peak}. Fascia consigliata {range}. {advice}",
+  "@bestMomentTodaySemantic": {
+    "placeholders": {
+      "peak": {},
+      "range": {},
+      "advice": {}
+    }
+  },
+  "recommendedRange": "Fascia consigliata: {range}",
+  "@recommendedRange": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "estimatedSolarIntensity": "Intensità solare stimata: {value} W/m²",
+  "@estimatedSolarIntensity": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "activeReminderToday": "Promemoria attivo per oggi alle {time}",
+  "@activeReminderToday": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+
+  "listenAdvice": "Ascolta consiglio",
+  "listenAdviceSemantic": "Ascolta il consiglio energetico. Legge ad alta voce il momento migliore e la fascia consigliata.",
+  "sendReminder": "Inviami un promemoria",
+  "sendReminderSemantic": "Inviami un promemoria quando è il momento consigliato per usare gli elettrodomestici.",
+  "cancelReminder": "Annulla promemoria",
+  "cancelReminderSemantic": "Annulla il promemoria attivo",
+  "testReminder": "Prova promemoria",
+
+  "whatToUse": "Cosa conviene usare",
+  "washingMachine": "Lavatrice",
+  "washingMachineSubtitle": "Ideale nelle ore di picco",
+  "dishwasher": "Lavastoviglie",
+  "dishwasherSubtitle": "Programma avvio ritardato",
+  "evCharging": "Ricarica EV",
+  "evChargingSubtitle": "Consumo alto, meglio col sole",
+
+  "searchCity": "Cerca città",
+  "searchCityHint": "Es. Parma, Bologna, Milano",
+  "welcomeTitle": "Benvenuto in CER Solar",
+  "welcomeText": "Ti aiutiamo a capire quando conviene usare gli elettrodomestici, in base alla produzione solare prevista nella tua zona.",
+  "chooseCity": "Per iniziare, scegli la tua città.",
+
+  "forecastTitle": "Previsioni solari",
+  "forecastSubtitle": "Andamento stimato per {city}",
+  "@forecastSubtitle": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "today": "Oggi",
+  "tomorrow": "Domani",
+  "noForecastAvailable": "Nessuna previsione disponibile.",
+  "currentSituation": "Situazione attuale",
+  "bestExpectedMoment": "Miglior momento previsto",
+  "forecastForHour": "Previsione delle ore {hour}",
+  "@forecastForHour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "pullToRefresh": "Trascina verso il basso per aggiornare",
+  "hourlyForecastFor": "Previsioni orarie per {day}",
+  "@hourlyForecastFor": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+
+  "reminder": "Promemoria",
+  "reminderAlreadyActiveFor": "Hai già un promemoria attivo per {day}.",
+  "@reminderAlreadyActiveFor": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "reminderDescription": "Ricevi una notifica la sera per ricordarti della fascia consigliata.",
+  "activeAt": "Attivo alle {time}",
+  "@activeAt": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "cancelTomorrowReminder": "Annulla promemoria per domani",
+  "activateReminderFor": "Attiva promemoria per {day}",
+  "@activateReminderFor": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "tomorrowReminderActivated": "Promemoria per domani attivato.",
+  "tomorrowReminderCancelled": "Promemoria per domani annullato.",
+
+  "productionHigh": "Produzione alta",
+  "productionGood": "Produzione buona",
+  "productionMedium": "Produzione media",
+  "productionLow": "Produzione bassa",
+  "scoreMessageHigh": "In questo momento è conveniente usare elettrodomestici energivori.",
+  "scoreMessageGood": "È un buon momento per spostare alcuni consumi domestici.",
+  "scoreMessageMedium": "La produzione è moderata: meglio usare piccoli elettrodomestici.",
+  "scoreMessageLow": "La produzione è bassa: se puoi, attendi una fascia migliore.",
+  "cloudCover": "Nuvolosità",
+
+  "historyTitle": "Storico",
+  "historySubtitle": "Ultimi 7 giorni di consigli energetici generati dall’app.",
+  "lastWeek": "Ultima settimana",
+  "exportData": "Esporta dati",
+  "exportCsvDescription": "Puoi esportare lo storico completo in formato CSV.",
+  "exportCsv": "Esporta CSV",
+  "exporting": "Esportazione...",
+  "clearHistory": "Cancella storico",
+  "deleteHistoryTitle": "Cancellare lo storico?",
+  "deleteHistoryMessage": "Questa azione eliminerà tutti i dati salvati nello storico.",
+  "cancel": "Annulla",
+  "delete": "Cancella",
+  "recommendedRangeLabel": "Fascia consigliata",
+  "peakExpectedLabel": "Picco previsto",
+  "estimatedIntensityLabel": "Intensità stimata",
+  "emptyHistoryTitle": "Nessun dato negli ultimi 7 giorni",
+  "emptyHistoryText": "Quando l’app calcola un consiglio energetico, lo salva qui insieme a città e giorno.",
+
+  "notificationReminderTitle": "È il momento giusto per usare energia",
+  "notificationReminderBody": "A {city} la fascia consigliata è {range}. Picco previsto alle {peak}.",
+  "@notificationReminderBody": {
+    "placeholders": {
+      "city": {},
+      "range": {},
+      "peak": {}
+    }
+  },
+  "notificationTestTitle": "Notifiche attive",
+  "notificationTestBody": "Riceverai un promemoria quando conviene usare gli elettrodomestici.",
+
+  "retry": "Riprova",
+  "notificationEndTitle": "La fascia migliore sta terminando",
+  "notificationEndBody": "A {city} la fascia consigliata {range} sta finendo. Se puoi, riduci i consumi più energivori.",
+  "@notificationEndBody": {
+    "placeholders": {
+      "city": {},
+      "range": {}
+    }
+  },
+  "savingsPotentialTitle": "Risparmio potenziale",
+  "savingsLastSevenDays": "Ultimi 7 giorni",
+  "savingsEstimatedEuro": "€ {value}",
+  "@savingsEstimatedEuro": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "savingsEstimatedCo2": "{value} kg CO₂ evitata stimata",
+  "@savingsEstimatedCo2": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "savingsExplanation": "Stima basata sullo spostamento di circa {kwh} kWh nella fascia consigliata.",
+  "@savingsExplanation": {
+    "placeholders": {
+      "kwh": {}
+    }
+  },
+  "savingsBasedOnAdvices": "Basato su {count} consigli generati.",
+  "@savingsBasedOnAdvices": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "solarAdviceHigh": "Produzione solare alta: è un ottimo momento per usare lavatrice, lavastoviglie o ricarica elettrica.",
+  "solarAdviceGood": "Produzione solare buona: conviene spostare alcuni consumi domestici in questa fascia.",
+  "solarAdviceMedium": "Produzione solare media: meglio usare solo piccoli elettrodomestici.",
+  "solarAdviceLow": "Produzione solare bassa: se puoi, rimanda i consumi più energivori.",
+  "ttsAdviceText": "Consiglio energetico per {city}. Il momento migliore oggi è alle {peak}. La fascia consigliata è {range}. {advice}",
+  "@ttsAdviceText": {
+    "placeholders": {
+      "city": {},
+      "peak": {},
+      "range": {},
+      "advice": {}
+    }
+  },
+  "navHome": "Home",
+  "navForecast": "Previsioni",
+  "navHistory": "Storico",
+  "notificationTomorrowReminderTitle": "Domani conviene usare energia solare",
+  "notificationTomorrowReminderBody": "A {city}, domani la fascia consigliata è {range}. Picco previsto alle {peak}.",
+  "@notificationTomorrowReminderBody": {
+    "placeholders": {
+      "city": {},
+      "range": {},
+      "peak": {}
+    }
+  }
+}
