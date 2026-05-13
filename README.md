@@ -39,7 +39,7 @@ La piattaforma principale supportata è:
 
 - Android, tramite file APK.
 
-Flutter permette inoltre la compilazione anche per piattaforme opzionali:
+L'applicazione è inoltre funzionante, ma non sono forniti i sorgenti, per le seguenti piattaforme:
 
 - iOS;
 - Web;
