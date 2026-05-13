@@ -16,6 +16,7 @@ import 'history/history_cubit.dart';
 import 'services/repository/history_repository.dart';
 import 'services/csv_export_service.dart';
 import 'services/tts_service.dart';
+import 'services/utils/reminder_preferences_utils.dart';
 
 void main() {
   runApp(const CerSolarApp());
@@ -63,6 +64,7 @@ class CerSolarApp extends StatelessWidget {
             notificationService: notificationService,
             historyRepository: historyRepository,
             ttsService: ttsService,
+            reminderPreferencesUtils: ReminderPreferencesUtils(),
           )
           ..loadForecast()
           ..startAutoRefresh(),
