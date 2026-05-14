@@ -11,57 +11,27 @@ https://univpr-my.sharepoint.com/:f:/g/personal/filippo_botti_unipr_it/IgD5clsSC
 ```
 ---
 
-# Screenshot dell’app
-
-Di seguito alcuni screenshot dell’applicazione nelle versioni italiana e inglese, incluse le notifiche locali.
-
 ## Interfaccia in italiano
 
-### Home e consiglio energetico
+| Home | Previsioni |
+|---|---|
+| <img src="images/ita_1.png" width="260"> | <img src="images/ita_2.png" width="260"> |
 
-![Schermata Home in italiano](images/ita_1.png)
-
-### Previsioni solari
-
-![Schermata previsioni in italiano](images/ita_2.png)
-
-### Dettaglio previsioni e fascia consigliata
-
-![Dettaglio previsioni in italiano](images/ita_3.png)
-
-### Storico e risparmio stimato
-
-![Storico in italiano](images/ita_4.png)
-
----
+| Dettaglio | Storico |
+|---|---|
+| <img src="images/ita_3.png" width="260"> | <img src="images/ita_4.png" width="260"> |
 
 ## Interfaccia in inglese
 
-### Home in inglese
+| Home | Previsioni |
+|---|---|
+| <img src="images/eng_1.png" width="260"> | <img src="images/eng_2.png" width="260"> |
 
-![Home in inglese](images/eng_1.png)
+## Notifiche
 
-### Previsioni in inglese
-
-![Previsioni in inglese](images/eng_2.png)
-
----
-
-## Notifiche locali
-
-### Promemoria di inizio fascia
-
-![Notifica inizio fascia](images/start_reminder.png)
-
-### Promemoria di fine fascia
-
-![Notifica fine fascia](images/end_reminder.png)
-
-### Promemoria per il giorno successivo
-
-![Notifica promemoria domani](images/tomorrow_reminder.png)
-
----
+| Inizio fascia | Fine fascia | Domani |
+|---|---|---|
+| <img src="images/start_reminder.png" width="240"> | <img src="images/end_reminder.png" width="240"> | <img src="images/tomorrow_reminder.png" width="240"> |
 
 ## Obiettivo dell’applicazione
 
