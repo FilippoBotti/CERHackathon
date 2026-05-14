@@ -13,13 +13,13 @@ https://univpr-my.sharepoint.com/:f:/g/personal/filippo_botti_unipr_it/IgD5clsSC
 
 ## Interfaccia in italiano
 
-| Home | Previsioni |
-|---|---|
-| <img src="images/ita_1.png" width="260"> | <img src="images/ita_2.png" width="260"> |
+| Home | Previsioni | Previsioni
+|---|---|---|
+| <img src="images/ita_1.png" width="260"> | <img src="images/ita_2.png" width="260"> | <img src="images/ita_3.png" width="260"> |
 
-| Dettaglio | Storico |
-|---|---|
-| <img src="images/ita_3.png" width="260"> | <img src="images/ita_4.png" width="260"> |
+| Storico |
+|---|
+| <img src="images/ita_4.png" width="260"> |
 
 ## Interfaccia in inglese
 
