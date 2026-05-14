@@ -11,7 +11,7 @@ https://univpr-my.sharepoint.com/:f:/g/personal/filippo_botti_unipr_it/IgD5clsSC
 ```
 ---
 
-## Interfaccia in italiano
+## Interfaccia in italiano (Tema scuro)
 
 | Home | Previsioni | Previsioni
 |---|---|---|
@@ -21,7 +21,7 @@ https://univpr-my.sharepoint.com/:f:/g/personal/filippo_botti_unipr_it/IgD5clsSC
 |---|
 | <img src="images/ita_4.png" width="260"> |
 
-## Interfaccia in inglese
+## Interfaccia in inglese (Tema scuro)
 
 | Home | Previsioni |
 |---|---|
